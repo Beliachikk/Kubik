@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\bin\Debug\кубик.exe.config
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\bin\Debug\кубик.exe
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\bin\Debug\кубик.pdb
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\obj\Debug\кубик.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\obj\Debug\кубик.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\obj\Debug\кубик.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\obj\Debug\кубик.exe
+C:\Users\USER\Documents\Программы олимпиадки\кубик\кубик\obj\Debug\кубик.pdb
